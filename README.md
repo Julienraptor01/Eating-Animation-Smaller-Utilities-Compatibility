@@ -3,7 +3,7 @@
 This resource pack will make [EatingAnimation](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric) Compatible with [VanillaTweaks' smaller utilities](https://vanillatweaks.net/picker/resource-packs/) resource pack.
 <br/>This pack needs to be above VT's one !
 
-# Credits
+## Credits
 
 Theoness1 for the EatingAnimation mod
 <br/>https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric/

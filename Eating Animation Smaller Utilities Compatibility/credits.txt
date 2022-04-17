@@ -5,7 +5,7 @@ Vanilla Tweaks team for the smaller utilities resource pack
 https://vanillatweaks.net/picker/resource-packs/
 
 Julienraptor01#3476 for the compatibility
-https://github.com/Julienraptor01/
+https://github.com/Julienraptor01/Eating-Animation-Smaller-Utilities-Compatibility/
 
 Mojang for the game
 https://www.minecraft.net/

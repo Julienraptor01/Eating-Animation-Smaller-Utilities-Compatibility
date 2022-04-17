@@ -2,7 +2,7 @@ Theoness1 for the EatingAnimation mod
 https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric/
 
 Vanilla Tweaks team for the smaller utilities resource pack
-https://vanillatweaks.net/
+https://vanillatweaks.net/picker/resource-packs/
 
 Julienraptor01#3476 for the compatibility
 https://github.com/Julienraptor01/

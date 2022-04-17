@@ -1,0 +1,6 @@
+{
+  "parent": "item/smaller_util",
+  "textures": {
+    "layer0": "eatinganimationid:item/tropical_fish_eating_2"
+  }
+}

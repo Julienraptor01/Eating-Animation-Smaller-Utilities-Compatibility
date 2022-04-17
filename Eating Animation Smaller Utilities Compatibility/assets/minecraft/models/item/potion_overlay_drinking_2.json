@@ -1,0 +1,7 @@
+{
+  "parent": "item/smaller_util",
+  "textures": {
+    "layer0": "eatinganimationid:item/potion_overlay_drinking_2",
+    "layer1": "item/potion"
+  }
+}

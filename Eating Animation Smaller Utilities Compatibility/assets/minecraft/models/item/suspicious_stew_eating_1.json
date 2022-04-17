@@ -1,0 +1,6 @@
+{
+  "parent": "item/smaller_util",
+  "textures": {
+    "layer0": "eatinganimationid:item/suspicious_stew_eating_1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/smaller_util",
+  "textures": {
+    "layer0": "foodplusid:item/sweet_berries_pie_eating_1"
+  }
+}

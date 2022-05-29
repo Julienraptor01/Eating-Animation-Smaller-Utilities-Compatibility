@@ -1,0 +1,6 @@
+{
+  "parent": "item/smaller_util",
+  "textures": {
+    "layer0": "additionaladditions:item/chicken_nugget_eating_0"
+  }
+}

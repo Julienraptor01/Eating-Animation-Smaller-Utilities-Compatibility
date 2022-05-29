@@ -1,0 +1,6 @@
+{
+  "parent": "item/smaller_util",
+  "textures": {
+    "layer0": "duckling:item/holiday_fruit_cake_eating_2"
+  }
+}

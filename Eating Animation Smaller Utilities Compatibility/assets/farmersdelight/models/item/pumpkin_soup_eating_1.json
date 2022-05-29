@@ -1,0 +1,6 @@
+{
+  "parent": "item/smaller_util",
+  "textures": {
+    "layer0": "farmersdelight:item/pumpkin_soup_eating_1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/smaller_util",
+  "textures": {
+    "layer0": "foodplusid:item/fried_mushroom2_eating_2"
+  }
+}

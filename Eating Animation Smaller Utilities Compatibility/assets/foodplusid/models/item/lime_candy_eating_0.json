@@ -1,0 +1,6 @@
+{
+  "parent": "item/smaller_util",
+  "textures": {
+    "layer0": "foodplusid:item/lime_candy_eating_0"
+  }
+}

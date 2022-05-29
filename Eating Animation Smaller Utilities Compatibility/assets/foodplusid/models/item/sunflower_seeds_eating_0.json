@@ -1,0 +1,6 @@
+{
+  "parent": "item/smaller_util",
+  "textures": {
+    "layer0": "foodplusid:item/sunflower_seeds_eating_0"
+  }
+}

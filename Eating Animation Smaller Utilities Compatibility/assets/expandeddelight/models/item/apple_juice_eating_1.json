@@ -1,0 +1,6 @@
+{
+  "parent": "item/smaller_util",
+  "textures": {
+    "layer0": "expandeddelight:item/apple_juice_eating_1"
+  }
+}
